@@ -64,7 +64,7 @@ export default function Home() {
 
   // Rive animation
   const { rive, RiveComponent } = useRive({
-    src: "/teddy_login.riv",
+    src: "/login/teddy_login.riv",
     autoplay: true,
     stateMachines: STATE_MACHINE_NAME,
   });
