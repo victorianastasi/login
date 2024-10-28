@@ -6,8 +6,6 @@ export const Button = styled.button`
   cursor: pointer;
   color: white;
   font-size: 1rem;
-  font-family: "__Quicksand_7f5e9f", "__Quicksand_Fallback_7f5e9f";
-  font-weight: 600;
   line-height: 1.5rem;
   padding: 0.5rem;
   border-radius: 0.5rem;
